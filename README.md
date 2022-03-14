@@ -4,7 +4,7 @@ The frontend (user-facing site) pulls data from a backend: Graph CMS, a free con
 ## Formatting
 The frontend is set up to handle only a portion of the formatting options available to Graph CMS, because most of them are unnecessary and this is a simple port of the existing, non-editable site to a version that you can edit. The main thing to watch out for is the headings/subheadings. When editing copy, you're able to select text and select from 'normal text' and a number of headings. 'normal text' is just paragraph text. 
 
-*With the headings, only use Heading 2 (reserve them for the heading at the beginning of each section) and Heading 3 (these are the subheadings with dots underneath them on the frontend).
+**With the headings, only use Heading 2 (reserve them for the heading at the beginning of each section) and Heading 3 (these are the subheadings with dots underneath them on the frontend).
 
 ## Editing main sections
 With the exception of individual vacancies, you need to edit existing entries. New entries will be ignored and if you delete the original entry then that section will go missing on the website.
