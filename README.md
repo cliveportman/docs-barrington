@@ -11,7 +11,7 @@ To edit an entry:
 - Make your changes.
 - Hit 'Save & publish'
 
-![](/barrington-cms-1.png "Editing content in Graph CMS")
+![](img/barrington-cms-1.png "Editing content in Graph CMS")
 ![](/barrington-cms-2.png "Editing main sections")
 
 ## Editing vacancies
