@@ -11,8 +11,8 @@ To edit an entry:
 - Make your changes.
 - Hit 'Save & publish'
 
-!(/barrington-cms-1.png "Editing content in Graph CMS")
-!(/barrington-cms-2.png "Editing main sections")
+![](/barrington-cms-1.png "Editing content in Graph CMS")
+![](/barrington-cms-2.png "Editing main sections")
 
 ## Editing vacancies
 You can have as many of these as you need. If there aren't any, the careers section won't show. Access the vacancies section by clicking on 'Vacancies' in the list of sections. Editing a vacancy is the same as editing any of the section above.
@@ -24,4 +24,4 @@ To create a new vacancy:
 - Add a PDF containing the full details using the 'Add existing Download' link at the bottom. A window will popup with an 'Upload' button in the bottom-right. 
 - After uploading, save the vacancy using the 'Save & publish' button. If it's a new file you've added, it'll ask you to publish the new file (it'll be a draft until you do that). Check the box next to the file name and hit 'Save & publish'.
 
-!(/barrington-cms-3.png "Creating a new vacancy")
+![](/barrington-cms-3.png "Creating a new vacancy")
